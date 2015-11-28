@@ -1,0 +1,9 @@
+<suite name="TestSampleSuite">
+    <test name="KeywordDriven">
+        <classes>
+            <class name="com.selenium.KeywordDriven.CommandKeywordDrivenTest" />
+        </classes>
+
+    </test>
+
+</suite>
